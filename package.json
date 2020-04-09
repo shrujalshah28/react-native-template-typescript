@@ -1,0 +1,28 @@
+{
+  "name": "@shrujal/react-native-template-typescript",
+  "version": "0.0.1",
+  "description": "React Native template for a quick start with Typescript.",
+  "keywords": [
+    "react-native",
+    "typescript",
+    "template",
+    "boilerplate"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrujalshah28/react-native-template-typescript.git"
+  },
+  "author": "Shrujal Shah <shrujalshah@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shrujalshah28/react-native-template-typescript/issues"
+  },
+  "homepage": "https://github.com/shrujalshah28/react-native-template-typescript#readme",
+  "files": [
+    "template",
+    "template.config.js"
+  ]
+}
